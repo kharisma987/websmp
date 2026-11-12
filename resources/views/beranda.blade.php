@@ -216,7 +216,7 @@
                         </a>
                     </div>
                     <div class="row">
-                        <div class="col-3 mt-2">
+                        <div class="col-md-3 mt-2">
                             <div class="card h-100">
                                 <img src="{{ asset('images/Upacara.jpg') }}" class="card-img-top" alt="...">
                                 <div class="card-body">
@@ -239,7 +239,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-3 mt-2">
+                        <div class="col-md-3 mt-2">
                             <div class="card h-100">
                                 <img src="{{ asset('images/pramuka.jpg') }}" class="card-img-top" alt="...">
                                 <div class="card-body">
@@ -262,7 +262,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-3 mt-2">
+                        <div class="col-md-3 mt-2">
                             <div class="card h-100 ">
                                 <img src="{{ asset('images/seni.jpg') }}" class="card-img-top" alt="...">
                                 <div class="card-body">
@@ -285,7 +285,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-3 mt-2">
+                        <div class="col-md-3 mt-2">
                             <div class="card h-100">
                                 <img src="{{ asset('images/museum.jpg') }}" class="card-img-top" alt="...">
                                 <div class="card-body">
